@@ -1,2 +1,2 @@
 # ImageHostingGallary
-save blog images and others
+save blog images
